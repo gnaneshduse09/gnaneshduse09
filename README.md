@@ -1,144 +1,86 @@
 <h1 align="center">Hi 👋, I'm Gnanesh Duse</h1>
-
-<h3 align="center">Aspiring Full-Stack Developer | React.js • Node.js • Python</h3>
+<h3 align="center">Aspiring Full-Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Aspiring+Full-Stack+Developer;React.js+%7C+Node.js+%7C+Python;Building+Projects+and+Continuously+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;React.js+%7C+Node.js+%7C+Python;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (2022–2026)
+- 🎓 B.Tech CSE Student (2022–2026)
 - 🌱 Currently learning **Full-Stack Development**
-- 💻 Passionate about Web Development
-- 🚀 Exploring **React.js, Node.js, Express.js & Python**
-- 📍 Rajahmundry, Andhra Pradesh, India
+- 💻 Passionate about building responsive web applications
+- 🚀 Exploring React.js, Node.js, Express.js, and Python
 - 🎯 Goal: Become a Software Engineer
+- 📍 Rajahmundry, Andhra Pradesh, India
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite" />
-</p>
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gnaneshduse09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnaneshduse09&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=gnaneshduse09&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gnaneshduse09&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gnaneshduse09&theme=tokyonight&margin-w=15&no-frame=true"/>
-
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🍽️ Food Munch
+Responsive restaurant website built using HTML, CSS, and Bootstrap.
 
-Responsive restaurant website built using HTML, CSS and Bootstrap.
-
-### 📚 Wikipedia Search Application
-
-Dynamic search application using REST API and JavaScript Fetch API.
+### 📚 Wikipedia Search App
+Search Wikipedia articles using REST API and JavaScript Fetch API.
 
 ### ⌨️ Typing Speed Test
+A web app that measures typing speed and accuracy using JavaScript.
 
-Typing speed evaluator using JavaScript DOM manipulation and REST APIs.
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
-
-<a href="https://github.com/gnaneshduse09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/gnanesh-duse">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:gnanesh.duse09@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gnanesh-duse)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnanesh.duse09@gmail.com)
 
 ---
 
-## 👀 Profile Views
+## 💡 Quote
+
+> "The best way to predict the future is to build it."
+
+---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=gnaneshduse09&label=Profile%20Views&color=0e75b6&style=flat"/>
-
+⭐ Thanks for visiting my profile! ⭐
 </p>
-
----
-
-## 💬 Quote
-
-> **"The best way to predict the future is to build it."**
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
